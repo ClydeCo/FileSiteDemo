@@ -1,0 +1,84 @@
+.fa-folder, .fa-folder-open {
+    color: #dcb67a;
+}
+
+.fa-envelope-o {
+    color: #dcb67a;
+}
+
+.fa-briefcase {
+    color: #9e2121;
+}
+
+.fa-star {
+    color: #fad014;
+}
+
+.fa-book {
+    color: #361fcf;
+}
+
+.fa-link {
+    color: #9e9ab8;
+}
+
+.fa-file-word-o {
+    color: #00a2ed;
+}
+
+.fa-file-pdf-o {
+    color: #ff0000;
+}
+
+.fa-dot-circle-o {
+    color: #c1d82f;
+}
+
+.fa-spinner {
+    color: #3434eb;
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+    z-index: 20;
+}
+
+a.stripped, a.stripped:link, a.stripped:visited, a.stripped:hover, a.stripped:focus, a.stripped:active {
+    color: inherit;
+    text-decoration: none;
+}
+
+a.explorerLink, a.explorerLink:link, a.explorerLink:visited, a.explorerLink:hover, a.explorerLink:focus, a.explorerLink:active{
+    color: inherit;
+    text-decoration: none;
+    display: block;
+    padding-left: 4px;
+}
+
+a.explorerLink:hover {
+    background-color: #e6f3fb;
+}
+
+a.selectedRow {
+    background-color: #cee7f8;
+}
+
+.c-white {
+    color: #f2f2ff;
+}
+
+.list-unstyled {
+    padding-left: 16px;
+}
+
+.list-unstyled li a {
+    position: relative;
+    overflow: hidden;
+    display: block;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.hover-icon:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
